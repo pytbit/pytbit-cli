@@ -1,0 +1,14 @@
+{
+    "name": "pytbit-cli",
+    "version": "1.0.0",
+    "type": "module",
+    "bin": {
+        "pytbit": "./bin/index.js"
+    },
+    "dependencies": {
+        "firebase": "^9.21.0",
+        "fs": "0.0.1-security",
+        "path": "^0.12.7",
+        "yargs": "^17.7.2"
+    }
+}

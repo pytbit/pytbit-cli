@@ -9,6 +9,7 @@
         "firebase": "^9.21.0",
         "fs": "0.0.1-security",
         "path": "^0.12.7",
+        "simple-git": "^3.19.1",
         "yargs": "^17.7.2"
     }
 }
